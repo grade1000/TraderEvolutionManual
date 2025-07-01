@@ -1,0 +1,3 @@
+# BaseQuote Class (TEAPIBrasilV2)
+
+﻿

@@ -1,0 +1,3 @@
+# TradeResult Class (TEAPIBrasilV2)
+
+﻿

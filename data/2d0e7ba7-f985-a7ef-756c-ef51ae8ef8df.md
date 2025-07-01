@@ -1,0 +1,3 @@
+# ForexInstrument Methods (TEAPIBrasilV2)
+
+﻿

@@ -1,0 +1,3 @@
+# TradeResult Properties (TEAPIBrasilV2)
+
+﻿

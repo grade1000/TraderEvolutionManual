@@ -1,0 +1,3 @@
+# HistoricalRequest Class (TEAPIBrasilV2)
+
+﻿

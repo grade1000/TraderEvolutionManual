@@ -1,0 +1,3 @@
+# LineBreakHistoricalRequest Properties (TEAPIBrasilV2)
+
+﻿

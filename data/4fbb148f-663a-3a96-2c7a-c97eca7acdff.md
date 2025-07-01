@@ -1,0 +1,3 @@
+# BarStampGraphicPath Class (TEAPIBrasilV2)
+
+﻿

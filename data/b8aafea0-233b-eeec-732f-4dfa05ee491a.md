@@ -1,0 +1,3 @@
+# Trade Methods (TEAPIBrasilV2)
+
+﻿

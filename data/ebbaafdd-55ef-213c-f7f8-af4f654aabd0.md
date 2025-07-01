@@ -1,0 +1,3 @@
+# Thresholds Class (TEAPIBrasilV2)
+
+﻿

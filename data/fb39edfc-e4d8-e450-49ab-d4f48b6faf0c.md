@@ -1,0 +1,3 @@
+# GlobalVariableManager Properties (TEAPIBrasilV2)
+
+﻿

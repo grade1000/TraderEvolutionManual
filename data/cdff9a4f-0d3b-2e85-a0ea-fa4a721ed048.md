@@ -1,0 +1,3 @@
+# BarStampText Methods (TEAPIBrasilV2)
+
+﻿

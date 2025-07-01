@@ -1,0 +1,3 @@
+# PriceRangeHistoricalRequest Methods (TEAPIBrasilV2)
+
+﻿

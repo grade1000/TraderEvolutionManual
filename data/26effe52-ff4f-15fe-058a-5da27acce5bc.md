@@ -1,0 +1,3 @@
+# HeikinAshiHistoricalRequest Constructor (TEAPIBrasilV2)
+
+﻿

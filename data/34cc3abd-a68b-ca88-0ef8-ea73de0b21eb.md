@@ -1,0 +1,3 @@
+# BBOData Properties (TEAPIBrasilV2)
+
+﻿

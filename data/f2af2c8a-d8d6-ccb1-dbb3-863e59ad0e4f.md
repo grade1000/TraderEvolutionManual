@@ -1,0 +1,3 @@
+# Connection Properties (TEAPIBrasilV2)
+
+﻿

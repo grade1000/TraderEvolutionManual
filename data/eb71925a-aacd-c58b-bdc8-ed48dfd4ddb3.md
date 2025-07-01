@@ -1,0 +1,3 @@
+# DataType Enumeration (TEAPIBrasilV2)
+
+﻿
